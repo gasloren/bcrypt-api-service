@@ -1,0 +1,17 @@
+{
+  "name": "bcrypt-api",
+  "version": "1.0.0",
+  "description": "Bcrypt API MicroServices",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Gaston Lorenzo",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2"
+  }
+}
