@@ -1,8 +1,8 @@
 # Bcrypt Micro Service API
 
 ### Endpoints
-` /bcript/hash/generate `\
-` /bcript/hash/validate `
+` /bcrypt/hash/generate `\
+` /bcrypt/hash/validate `
 
 - bcryptjs library
 - only localhost requests will be accepted
